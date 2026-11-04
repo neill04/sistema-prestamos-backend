@@ -1,6 +1,6 @@
 # Sistema de Préstamos EPCC — Backend
 
-API REST del sistema de préstamo y reserva de equipos, libros y objetos de la EPCC (UNSA). Proyecto universitario.
+API REST del sistema de préstamo y reserva de equipos, libros y objetos de la EPCC (UNSA).
 
 **Stack:** Java 21, Spring Boot 3.5, Spring Data JPA, PostgreSQL 16, Flyway, Spring Security + JWT, MapStruct, Lombok, springdoc-openapi. Pruebas con JUnit 5, MockMvc y Testcontainers.
 
